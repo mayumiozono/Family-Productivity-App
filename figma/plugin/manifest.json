@@ -1,0 +1,8 @@
+{
+  "name": "Rotina em Família – Telas do celular",
+  "id": "rotina-em-familia-telas-celular",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page"
+}
